@@ -1,2 +1,4 @@
 Cafe
 Leche
+sushi
+tofu
